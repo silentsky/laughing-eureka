@@ -2,10 +2,10 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/silentsky/laughing-eureka
 ! Homepage for the repository: https://github.com/silentsky/laughing-eureka
+
 ! 2023-05-27 https://www.animenewsnetwork.com block voice actor related posts
 ! reference: https://www.ghacks.net/2020/06/05/save-your-firefox-tabs-in-a-single-click-with-tab-stash/#comment-4464768
 ! https://github.com/gorhill/uBlock/wiki/Procedural-cosmetic-filters#subjecthas-textneedle
-!animenewsnetwork.com#@#.gutter
 www.animenewsnetwork.com##.interest,.news:has-text(/\bvoice actress\b/i)
 www.animenewsnetwork.com##.interest,.news:has-text(/\bvoice actor\b/i)
 !www.animenewsnetwork.com##.interest,.news:has-text(/Joins Cast/i)
