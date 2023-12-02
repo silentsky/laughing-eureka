@@ -8,18 +8,29 @@ oceanofgames.$document
 crackingpatching.$document
 igg-games.$document
 iigggames.$document
+loadgames.$document
 agfy.co
 aimhaven.$document
 steamunlocked.$document
 gogunlocked.com
 romsunlocked.com
 *cracked-games.$document
+*gamefabrique.$document
+*wifi4games.$document
 ||fitgirl-repacks.*^$all,domain=~fitgirl-repacks.site
 ||fitgirl-repack.*^$all,domain=~fitgirl-repacks.site
 ||fitgirlrepacks.*^$all,domain=~fitgirl-repacks.site
 ||fitgirlrepack.*^$all,domain=~fitgirl-repacks.site
 ||fitgirls-repack.*^$all,domain=~fitgirl-repacks.site
 ||fitgirl-repacks-site.org^$doc,domain=~fitgirl-repacks.site
+
+||fitgirl-repacks.^$all,domain=~fitgirl-repacks.site
+||fitgirl-repack.^$all,domain=~fitgirl-repacks.site
+||fitgirlrepacks.^$all,domain=~fitgirl-repacks.site
+||fitgirlrepack.^$all,domain=~fitgirl-repacks.site
+||fitgirlrepacksite.com^$all,domain=~fitgirl-repacks.site
+||fitgirl.cc^$all,domain=~fitgirl-repacks.site
+@@||fitgirl-repacks.site^$image,popup
 
 # Software / App Sites
 *getintopc.com
