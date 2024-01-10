@@ -45,4 +45,26 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lg
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56171fafada51f8004c4b40f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=990&terminate=false&userId=
 #EXTINF:-1,Adult Swim Daily Animation
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
+#EXTINF:-1,Toonami Aftermath West
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1,Disney Channel Hindi
+https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
+#EXTINF:-1,Disney Channel
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/4513.ts
+#EXTINF:-1,Disney HD
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/4987.ts
+#EXTINF:-1,Disney Channel US
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/9331.ts
+#EXTINF:-1,Disney Channel CA
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/20534.ts
+#EXTINF:-1,Cartoon Network and Adult Swim
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/9371.ts
+#EXTINF:-1,Nick HD
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/9178.ts
+#EXTINF:-1,Adult Swim CA HD
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/20512.ts
+#EXTINF:-1,Nicklodeon
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+#EXTINF:-1,Nick HD Plus
+http://124.29.225.205:8000/play/a03r/index.m3u8
 
