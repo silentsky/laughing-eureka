@@ -67,4 +67,12 @@ http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/20512.ts
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1,Nick HD Plus
 http://124.29.225.205:8000/play/a03r/index.m3u8
-
+#EXTINF:-1,Nick Music
+http://fast-iptv.xyz:8080/live/9YWRad7Ueb/ERXyxqmUs6/4540.ts
+#EXTINF:-1,Music India
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=140&e=.m3u8%7CUser-Agent=bdsajib
+#EXTINF:-1,B4U music
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=39&e=.m3u8%7CUser-Agent=bdsajib
+#EXTINF:-1,Arabica Music
+#FREETVBD.m3u
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
