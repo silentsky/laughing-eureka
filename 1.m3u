@@ -18,8 +18,9 @@ http://172.16.29.242:8080/show/4122/index.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://172.16.29.242:8080/show/4120/index.m3u8
 #EXTINF:-1,Hum Masala
-http://195.26.87.217/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#http://195.26.87.217/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=23907
+http://starshare.live:8080/live/eoDR61kYPQ/4cWzPcUhtZ/148597.ts
 #EXTINF:-1,Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i_
 #EXTINF:-1,National Geographic
