@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Star Plus
+http://172.16.29.242:8080/show/5030/index.m3u8
+#EXTINF:-1,Star Utsav
+http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1,Star Bharat
+http://103.120.172.74:5200
+#EXTINF:-1,Star Gold
+http://172.16.29.242:8080/show/5058/index.m3u8
+#EXTINF:-1,Star Jalsa
+http://172.16.29.242:8080/show/5053/index.m3u8
+#EXTINF:-1,Jalsa Movies
+http://172.16.29.242:8080/show/5054/index.m3u8
+#EXTINF:-1,Gaan Bangla
+http://172.16.29.242:8080/show/4018/index.m3u8
+#EXTINF:-1,9xM
+http://172.16.29.242:8080/show/4122/index.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://172.16.29.242:8080/show/4120/index.m3u8
+#EXTINF:-1,Hum Masala
+#http://195.26.87.217/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=23907
+#EXTINF:-1,Food Food
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i_
+#EXTINF:-1,National Geographic
+http://172.16.29.242:8080/show/5036/index.m3u8
+#EXTINF:-1,Star Movies
+http://172.16.29.242:8080/show/5021/index.m3u8
+#EXTINF:-1,HBO
+http://172.16.29.242:8080/show/5005/index.m3u8
+#EXTINF:-1,BBC world news
+http://livetv.ktv.zone/60/play.m3u8
+#EXTINF:-1,Cartoon Network 2
+http://89.254.128.5:22280/cartoon_network/index.m3u8
+#EXTINF:-1,Boomerang
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45608
+#EXTINF:-1,Nicktoons
+http://89.254.128.5:22280/nicktoons/video.m3u8
+#EXTINF:-1,Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1,Retro Crush
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
+#EXTINF:-1,Pluto TV After School Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56171fafada51f8004c4b40f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=990&terminate=false&userId=
+#EXTINF:-1,Adult Swim Daily Animation
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
+
