@@ -32,28 +32,39 @@ romsunlocked.com
 ||fitgirl.cc^$all,domain=~fitgirl-repacks.site
 @@||fitgirl-repacks.site^$image,popup
 
+
+
 # Software / App Sites
 *getintopc.com
 www.getintomac.net
 www.sadeempc.com
 sadeemapk.com
 karanpc.com
+filecr.com
+ftuapps.dev
 s0ft4pc.com
 portable4pc.com
 crackshash.$document
 haxnode.net
+igi30storrents.blogspot.com
+mrepo.org
+mainrepo.org
+yasdl.com
+allpcworld.com
+allpcworlds.com
+rsload.net
 app.app-valley.vip
 www.tutubox.io
 ignition.fun
 download.cnet.com
 *.softonic.$document
-ftuapps.dev
-filecr.com
+
 
 # Torrent sites
 *thepiratebay.$document
 *kickasstorrents.$document
 *1377x.$document
+*vstorrent.$document
 
 # Software / Apps
 www.utorrent.com
@@ -68,9 +79,16 @@ www.avg.com
 www.mcafee.com
 www.ccleaner.com
 www.privateinternetaccess.com
+www.expressvpn.com
+www.zenmate.com
+www.cyberghostvpn.com
+gshade.org
+bluesmods.com
 tlauncher.org
 polymc.org
 limewire.com
+www.totalav.com
+www.pcprotect.com
 
 # fake Z-Library domains (source: https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
 zlib.is
@@ -202,3 +220,6 @@ picwish.com
 www.conceptworld.com
 apkod.com
 torrent2exe.com
+
+
+
