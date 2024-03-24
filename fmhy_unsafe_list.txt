@@ -32,7 +32,31 @@ romsunlocked.com
 ||fitgirl.cc^$all,domain=~fitgirl-repacks.site
 @@||fitgirl-repacks.site^$image,popup
 
-
+!2024-03-24
+alltorrents.co
+Cracked-games.org
+crackingpatching.com
+freetp.org
+game3rb.com
+gamesreleaser.com
+getgamez.net
+hisgames.org
+IGG-Games.com
+loadgames.org
+mrpcgamer.co
+nexus-games.net
+nosteamgames.ro
+oceanofgames.com
+pcgamestorrents.com
+rgmechanics.com
+sgcrack.com
+small-games.info
+steamcracked.co
+steamhub.co
+steamunlocked.net / steamunlocked.pro
+stggege.org
+TinkerGames
+unlocked-games.com
 
 # Software / App Sites
 *getintopc.com
