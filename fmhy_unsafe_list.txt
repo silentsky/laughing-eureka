@@ -42,9 +42,9 @@ hisgames.org
 loadgames.org
 mrpcgamer.co
 nexus-games.net
-nosteamgames.ro
+nosteamgames.$document
 pcgamestorrents.com
-rgmechanics.com
+rgmechanics.comhttps://downloadlynet.ir/
 sgcrack.com
 small-games.info
 steamcracked.co
@@ -52,6 +52,15 @@ steamhub.co
 stggege.org
 TinkerGames
 unlocked-games.com
+
+!2024-05-02
+gamedrive.$document
+apunkagames.$document
+blackboxrepacke.$document
+nosteam.$document
+repack-games.$document
+downloadlynet.ir
+qoob.name
 
 skidrowcodex.$document
 skidrowcpy.$document
