@@ -1,3 +1,9 @@
+! Title: Fake news
+! Description: Blocks fake news sites
+! Last modified:
+! Expires: 4 days
+! Format: ublock
+
 ||republicbangla.co.in^$document
 ||hindustantimes.com^$document
 ||india.com^$document
