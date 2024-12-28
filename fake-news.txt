@@ -1,4 +1,4 @@
-! Title: Fake news
+! Title: Fake News
 ! Description: Blocks fake news sites
 ! Last modified:
 ! Expires: 4 days
@@ -49,3 +49,4 @@
 ||newsbytesapp.com^$document
 ||vibesofindia.com^$document
 ||bartamanpatrika.com^$document
+||www.anandabazar.com^$document
