@@ -49,4 +49,5 @@
 ||newsbytesapp.com^$document
 ||vibesofindia.com^$document
 ||bartamanpatrika.com^$document
-||www.anandabazar.com^$document
+||anandabazar.com^$document
+||storyboard18.com^$document
