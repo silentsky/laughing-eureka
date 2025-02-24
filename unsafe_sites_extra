@@ -1,0 +1,77 @@
+! Title: Unsafe Sites Extra
+! Description: Blocks unsafe site that's not covered by FMHY. Made by me.
+! Last modified:
+! Expires: 4 days
+! Format: ublock
+
+! all purpose
+||rargb-to^
+||therarbg.com^
+||rarbg.club^
+||torrentlite.org^
+
+! anime
+||animixplay.*^all
+||zoro.*^all
+
+! roms
+||coolrom.*^all
+
+! games
+||apunkagames.com^
+||crohasit.net^
+||crotorrents.com^
+||descargagame.com^
+||elamigos-games.net^
+||elamigosweb.com^
+||empresstorrents.com^
+||gamepciso.com^
+||game3rb.com^
+||gamestorrents.fm^
+||gogunlocked.com^
+||nexus-games.net^
+||nosteamgames.ro^
+||qoob.name^
+||steam-repacks.com^
+||gamedrive.org^
+||loadgames.org^
+||downloadly.*^all
+||downloadlynet.*^all
+||repack-games.com^
+
+! movies
+||soap2day.*^all
+||soap2days.*^all
+||soap2day1.*^all
+||soap2dayhq.*^all
+||soap2dayhd.*^all
+||thesoap2day.*^all
+||soap2dayto.*^all
+||soap2dayz.*^all
+||ssoap2day.*^all
+||soap2dau.*^all
+||soapgate.*^all
+||thesoap2day.*^all
+||soap2dayse.*^all
+||soap2daay.*^all
+||soap2dayy.*^all
+||soap2-day.*^all
+||daydreamsoaps.*^all
+||soap2day-to.*^all
+||mtv2day.*^all
+||mysoap2day.*^all
+||soap2dayapp.*^all
+||riedberg.*^all
+||stolensoap.*^all
+||7elwan2day.*^all
+||vegamovies.ist^
+||watchsomuch.to^
+||yts.mx^
+
+! softwares
+||appdoze.com^
+||crackedfully.com^
+||kolompc.com^
+||portable4pc.com^
+||sampledrive.in^
+||vfxdownloads.net^
